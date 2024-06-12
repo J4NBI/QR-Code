@@ -38,3 +38,8 @@ img {
 h2,p {
   padding: 10px 0px;
 }
+
+p {
+  font-weight: light;
+  color: rgb(168, 166, 166);
+}
